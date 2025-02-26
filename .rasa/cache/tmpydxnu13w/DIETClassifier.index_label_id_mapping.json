@@ -1,0 +1,10 @@
+{
+  "0": "appointment_scheduling",
+  "1": "emergency_care",
+  "2": "governance_effect",
+  "3": "insurance_info",
+  "4": "location_info",
+  "5": "medical_records",
+  "6": "patient_transfer",
+  "7": "telemedicine"
+}
