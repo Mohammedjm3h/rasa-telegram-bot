@@ -1,6 +1,8 @@
 version: "3.1"
 
 responses:
+  utter_greet:
+    - text: "مرحبًا! كيف يمكنني مساعدتك اليوم؟"
   utter_location_info:
     - text: "المركز يقع ضمن نطاق الرياض أو شقراء أو الدوادمي، حسب الموقع المحدد للمنشأة."
   utter_governance_effect:
